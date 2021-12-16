@@ -6,9 +6,9 @@ This repository is my solution to [Mineswepeer project](https://cs50.harvard.edu
 </p>
 
 ## 🚀 How to execute:
-- Clone the repository using git clone 
-- Install the dependencies listed on requirements.txt
-- Run "python runner.py" on your terminal to play against my AI!
+- Clone the repository using ```git clone``` 
+- Install the dependencies listed on [requirements.txt](/requirements.txt)
+- Run ```python runner.py``` on your terminal to play against my AI!
 
 Observation: The AI wont ever win, but im the majority she will.
 
